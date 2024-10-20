@@ -1,2 +1,2 @@
-# google-image-collector
-Collects images for the purpose of deep learning and image processing.
+# Image Collector
+Collects images from search engines for the purpose of deep learning and image processing.
